@@ -31,7 +31,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	mpg "github.com/MiniProfiler/go/miniprofiler_gae"
+	mpg "github.com/crmaxx/go/miniprofiler_gae"
 	"github.com/mjibson/goon"
 	"github.com/mjibson/goread/atom"
 	"github.com/mjibson/goread/rdf"

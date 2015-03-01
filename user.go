@@ -35,7 +35,7 @@ import (
 
 	"code.google.com/p/go-charset/charset"
 	_ "code.google.com/p/go-charset/data"
-	mpg "github.com/MiniProfiler/go/miniprofiler_gae"
+	mpg "github.com/crmaxx/go/miniprofiler_gae"
 	"github.com/mjibson/goon"
 	"github.com/mjibson/goread/sanitizer"
 

@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	mpg "github.com/MiniProfiler/go/miniprofiler_gae"
+	mpg "github.com/crmaxx/go/miniprofiler_gae"
 	"github.com/mjibson/goon"
 
 	"appengine/datastore"

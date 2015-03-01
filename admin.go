@@ -27,7 +27,7 @@ import (
 	"appengine/datastore"
 	"appengine/memcache"
 
-	mpg "github.com/MiniProfiler/go/miniprofiler_gae"
+	mpg "github.com/crmaxx/go/miniprofiler_gae"
 	"github.com/mjibson/goon"
 )
 
